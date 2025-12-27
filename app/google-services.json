@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "340263442669",
+    "project_id": "liora-c3434",
+    "storage_bucket": "liora-c3434.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340263442669:android:c0d24a4ef004e42fac94e4",
+        "android_client_info": {
+          "package_name": "com.example.liora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340263442669-61evkn9ad502nui68hevl72bpkig2o99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.liora",
+            "certificate_hash": "32c9917252772b3ae1dead157d085c016c343045"
+          }
+        },
+        {
+          "client_id": "340263442669-c0piono5df1tstgrtigbolrguiovvqd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdg46FDoV24d2PKHqvAx8qukmmXiD4gAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340263442669-c0piono5df1tstgrtigbolrguiovvqd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
