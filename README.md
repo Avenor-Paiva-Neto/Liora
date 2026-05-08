@@ -21,3 +21,7 @@ The scaling challenges I faced while organizing this project into packages were 
 
 ---
 > "This was the project where I stopped just writing code and started architecting solutions."
+
+
+<img width="1024" height="500" alt="image" src="https://github.com/user-attachments/assets/6a840845-8640-4099-b982-6bfc0c282515" />
+
